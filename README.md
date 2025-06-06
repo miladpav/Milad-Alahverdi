@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-<h2> | DevOps Engineer میلاد پوراله وردی</h2>
+<h2 dir="rtl"> | DevOps Engineer میلاد پوراله وردی</h2>
 
 </div>
 
