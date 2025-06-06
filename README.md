@@ -1,8 +1,6 @@
-<h1 align="center">رزومه</h1>
-
 <div dir="rtl">
 
-**میلاد پوراله وردی**
+<h2 align="center">میلاد پوراله وردی</h2>
 
 </div>
 
