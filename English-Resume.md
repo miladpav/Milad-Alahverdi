@@ -2,7 +2,6 @@
 
 <table style="width:100%;">
   <tr>
-    <!-- Left column: Table of contents (70% width) -->
     <td style="text-align:left; vertical-align:top; width:70%;">
       <ul>
         <li><a href="#-about-me">🎯 About Me</a></li>
@@ -14,8 +13,6 @@
         <li><a href="#-links">🔗 Links</a></li>
       </ul>
     </td>
-
-    <!-- Right column: Contact details (30% width), aligned right -->
     <td style="text-align:right; vertical-align:top; width:30%;">
       <ul style="list-style-type:none; padding:0; margin:0;">
         <li>📧 milad.alhvrd@gmail.com</li>
