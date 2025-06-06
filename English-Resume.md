@@ -1,12 +1,30 @@
 <h2>Milad Alahverdi | DevOps Engineer</h2>
 
-- [🎯 About Me](#-about-me)                                     - 📧 milad.alhvrd@gmail.com  
-- [💼 Work Experience](#-work-experience)                       - ☎️ +98 919 244 4719  
-- [🛠 Tools \& Skills](#-tools--skills)                         - 🎂 Age: 33  
-- [🎓 Education](#-education)                                   - 📍 Location: Tehran, Iran  
-- [🌐 Languages](#-languages)                                   - 🔗 [Other Contact Links](#-links)
-- [🚀 Projects](#-projects)                                 
-- [🔗 Links](#-links)                                       
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="text-align:left; vertical-align:top; padding-right: 20px; width: 60%;">
+      <ul>
+        <li><a href="#-about-me">🎯 About Me</a></li>
+        <li><a href="#-work-experience">💼 Work Experience</a></li>
+        <li><a href="#-tools--skills">🛠 Tools & Skills</a></li>
+        <li><a href="#-education">🎓 Education</a></li>
+        <li><a href="#-languages">🌐 Languages</a></li>
+        <li><a href="#-projects">🚀 Projects</a></li>
+        <li><a href="#-links">🔗 Links</a></li>
+      </ul>
+    </td>
+    <td style="text-align:right; vertical-align:top; width: 40%;">
+      <ul style="list-style-type: none; padding: 0;">
+        <li>📧 milad.alhvrd@gmail.com</li>
+        <li>☎️ +98 919 244 4719</li>
+        <li>🎂 Age: 33</li>
+        <li>📍 Location: Tehran, Iran</li>
+        <li>🔗 <a href="#-links">Other Contact Links</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
