@@ -1,10 +1,10 @@
 <div dir="rtl">
 
-<h2>میلاد پوراله وردی</h2>
+<h2> | DevOps Engineer میلاد پوراله وردی</h2>
 
 </div>
 
-- 📧 m.p.allahverdi@gmail.com
+- 📧 milad.alhvrd@gmail.com
 - ☎️ 09192444719
 - 🎂 Age: 33
 - 📍  Location: Tehran, Iran
@@ -83,7 +83,7 @@
 
 ## 🎓 تحصیلات
 
-کارشناسی فناوری اطلاعات – دانشگاه علمی کاربردی صوفی زنجان  
+کارشناسی فناوری اطلاعات – دانشگاه غیرانتفاعی صوفی زنجان  
 *۱۳۸۹ تا ۱۳۹۳*
 
 ---
@@ -102,5 +102,7 @@
 - LinkedIn: [linkedin.com/in/milad-alahverdi](https://linkedin.com/in/milad-alahverdi)  
 - GitHub: [github.com/miladpav](https://github.com/miladpav)
 - Telegram: [https://t.me/MilaD_PaV](https://t.me/MilaD_PaV)
+- Skype ID: milad.alhvrd_1
+- Additional Email: m.p.allahverdi@gmail.com
 
 </div>
