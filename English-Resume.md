@@ -1,8 +1,9 @@
 <h2>Milad Alahverdi | DevOps Engineer</h2>
 
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%;">
   <tr>
-    <td style="text-align:left; vertical-align:top; padding-right: 20px; width: 60%;">
+    <!-- Left column: Table of contents (70% width) -->
+    <td style="text-align:left; vertical-align:top; width:70%;">
       <ul>
         <li><a href="#-about-me">🎯 About Me</a></li>
         <li><a href="#-work-experience">💼 Work Experience</a></li>
@@ -13,13 +14,15 @@
         <li><a href="#-links">🔗 Links</a></li>
       </ul>
     </td>
-    <td style="text-align:right; vertical-align:top; width: 40%;">
-      <ul style="list-style-type: none; padding: 0;">
+
+    <!-- Right column: Contact details (30% width), aligned right -->
+    <td style="text-align:right; vertical-align:top; width:30%;">
+      <ul style="list-style-type:none; padding:0; margin:0;">
         <li>📧 milad.alhvrd@gmail.com</li>
         <li>☎️ +98 919 244 4719</li>
         <li>🎂 Age: 33</li>
-        <li>📍 Location: Tehran, Iran</li>
-        <li>🔗 <a href="#-links">Other Contact Links</a></li>
+        <li>📍 Tehran, Iran</li>
+        <li>🔗 <a href="#-links">Other Links</a></li>
       </ul>
     </td>
   </tr>
