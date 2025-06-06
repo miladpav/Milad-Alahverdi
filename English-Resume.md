@@ -1,24 +1,12 @@
-<div dir="ltr">
+<h2>Milad Alahverdi | DevOps Engineer</h2>
 
-<h2 dir="ltr">Milad Alahverdi | DevOps Engineer</h2>
-
-</div>
-
-- 📧 milad.alhvrd@gmail.com  
-- ☎️ +98 919 244 4719  
-- 🎂 Age: 33  
-- 📍 Location: Tehran, Iran  
-- 🔗 [Other Contact Links](#-links)
-
-<div dir="ltr">
-
-- [🎯 About Me](#-about-me)
-- [💼 Work Experience](#-work-experience)
-- [🛠 Tools \& Skills](#-tools--skills)
-- [🎓 Education](#-education)
-- [🌐 Languages](#-languages)
-- [🚀 Projects](#-projects)
-- [🔗 Links](#-links)
+- [🎯 About Me](#-about-me)                                     - 📧 milad.alhvrd@gmail.com  
+- [💼 Work Experience](#-work-experience)                       - ☎️ +98 919 244 4719  
+- [🛠 Tools \& Skills](#-tools--skills)                         - 🎂 Age: 33  
+- [🎓 Education](#-education)                                   - 📍 Location: Tehran, Iran  
+- [🌐 Languages](#-languages)                                   - 🔗 [Other Contact Links](#-links)
+- [🚀 Projects](#-projects)                                 
+- [🔗 Links](#-links)                                       
 
 ---
 
@@ -75,8 +63,6 @@ To me, DevOps is not just about tools—it's a principled approach to building r
 - **Other Tools:** MinIO, Keycloak, Istio, Velero, Ansible-AWX  
 - **Languages:** Python, Bash  
 
-<div dir="ltr">
-
 ---
 
 ## 🎓 Education
@@ -110,5 +96,3 @@ B.Sc. in Information Technology – Soofi University of Zanjan (Non-Profit)
 - Telegram: [https://t.me/MilaD_PaV](https://t.me/MilaD_PaV)  
 - Skype ID: milad.alhvrd_1  
 - Additional Email: m.p.allahverdi@gmail.com  
-
-</div>
